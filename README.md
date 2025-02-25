@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Merih Can Korkmaz
-### Full Stack Developer from Türkiye
+### Software Developer from Türkiye
 
 ![Profile views](https://komarev.com/ghpvc/?username=mckorkmaz&color=blue)
 
